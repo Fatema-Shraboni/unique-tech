@@ -1,0 +1,166 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+     /*header start*/
+    .menu ul li a {
+    font-size: 14px;
+	padding:5px 0 !important;
+	text-align: right!important;
+   }
+   .call{
+    text-align: right!important;
+   }
+   /*header end*/
+    /*slider*/
+    .s-h1{
+  font-size: 35px;
+  }
+    /*slider*/
+    /*middle section*/
+    .wow{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.web-p{
+  font-size: 14px;
+  font-weight: 300;
+  color: #363636;
+}
+
+    /*middle section*/
+    /*features*/
+    .f-content{
+    text-align: center;
+   }
+   .f-icon{
+    text-align: center;
+   }
+    /*features*/
+      .w-button{
+      font-size: 20px;
+     height: 50px;
+     width: 250px;
+    }
+    .shape{
+    padding-left: 220px;
+
+  }
+  .b-button{
+  font-size: 20px;
+  height: 50px;
+  width: 350px;
+  }
+  .b-shape{
+  padding-left: 320px;
+
+  }
+ .shape3{
+  padding-right: 300px;
+  }
+  .f-1{
+    text-align: center;
+    margin: 20px 0;
+  }
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+        /*header start*/
+    .menu ul li a {
+    font-size: 14px;
+	padding:5px 0 !important;
+	text-align: right;
+  /*header end*/
+  }
+   .call{
+    text-align: right;
+   }
+    /*slider*/
+    .s-h1{
+  font-size: 35px;
+  }
+    /*slider*/
+    /*features*/
+    .f-content{
+    text-align: center;
+   }
+   .f-icon{
+    text-align: center;
+   }
+    /*features*/
+    .w-button{
+     height: 50px;
+     width: 250px;
+    }
+     .f-1{
+    text-align: center;
+    margin: 20px 0;
+  }
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*header start*/
+    .menu ul li a {
+	padding:5px 0 !important;
+	text-align: right;
+    /*header end*/
+   }
+ .web-p{
+  font-size: 15px;
+  font-weight: 300;
+  color: #363636;
+}
+.wow{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  }
+  /*middle section*/
+    /*features*/
+    .f-content{
+    text-align: center;
+   }
+   .f-icon{
+    text-align: center;
+   }
+    /*features*/
+      .w-button{
+      font-size: 20px;
+     height: 50px;
+     width: 250px;
+    }
+    .shape{
+    padding-left: 230px;
+
+  }
+  .b-button{
+  font-size: 20px;
+  height: 50px;
+  width: 350px;
+  }
+  .b-shape{
+  padding-left: 320px;
+
+  }
+  .shape3{
+  padding-right: 300px;
+  }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px){
+	
+}
